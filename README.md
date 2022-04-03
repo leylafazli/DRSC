@@ -1,6 +1,7 @@
 A location–inventory–distribution model under gradual injection of pre–disaster budget with application in disaster relief logistics – a case study
 
 
+
 Leyla Fazli, Majid Salari , Hossein Neghabi
 
 Department of Industrial Engineering, Ferdowsi University of Mashhad, Mashhad, Iran
